@@ -2,6 +2,12 @@
 
 **Argus** is a 3D global event intelligence dashboard that visualizes world events and explains why they matter to Canada. Named after the all-seeing giant of Greek mythology, Argus monitors the world and surfaces geopolitical, economic, climate, and policy events, before connecting them to Canadian impact through an AI analysis layer.
 
+
+https://github.com/user-attachments/assets/18925c49-577d-4617-b530-b63fc2027c5c
+
+
+
+
 ---
 
 ## Architecture
